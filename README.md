@@ -9,8 +9,7 @@ This repository contains the experiments performed as part of the Cloud Analytic
 | Experiment 01 | Create an Azure Data Factory pipeline to ingest data from an on-premises SQL database into Azure Blob Storage | Completed |
 | Experiment 02 | Create an Azure Synapse dedicated SQL pool and load data | Completed |
 | Experiment 03 | Query and analyze structured and unstructured data from Azure Data Lake Storage using Synapse | Completed |
-| Experiment 04 | Upcoming Experiment | Pending |
-| Experiment 05 | Upcoming Experiment | Pending |
+
 
 ## Azure Services Used
 
